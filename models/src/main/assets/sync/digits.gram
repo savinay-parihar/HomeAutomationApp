@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = turn fan on | turn bulb on | turn fan off | turn bulb off | pankha chalu karo | pankha band karo | bulb chalu karo | bulb band karo;
+
+public <digits> = <digit>+;

@@ -1,0 +1,11 @@
+.gradle
+.idea
+/local.properties
+/build
+/app/build
+/models/build
+/wear/build
+.DS_Store
+*.md5
+*.lst
+*.iml
